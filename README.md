@@ -2,8 +2,6 @@
 
 Aplicação desktop para Windows que ajuda a dar o destino correto ao lixo eletrônico. A pessoa responde cinco perguntas sobre o aparelho, recebe uma pontuação de 0 a 100 com a classificação **reutilizável**, **reciclável** ou **descarte especial**, e vê quais pontos de coleta aceitam aquele equipamento.
 
-Projeto desenvolvido na disciplina **Programação de Computadores** do curso de Ciência da Computação do **UNISAGRADO**, no 2º semestre de 2026.
-
 ![Tela inicial](docs/capturas/01_tela_inicial.png)
 
 ## Funcionalidades
