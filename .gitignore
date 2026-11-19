@@ -1,0 +1,25 @@
+# visual studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+
+# saida do inno setup (o instalador vai na release)
+Instalador/Saida/
+
+# pastas da entrega da disciplina (tem documentos com dados pessoais)
+Entrega/
+Sistema de Descarte de E-lixo/
+
+# arquivos pra release do github
+Release_GitHub/
+Para_GitHub/
+
+# windows
+Thumbs.db
+Desktop.ini
