@@ -90,14 +90,3 @@ Instalador/       script do Inno Setup
 ```
 
 Os dados ficam em `%AppData%\SistemaDescarteEletronico\dados.json`. Na primeira execução o arquivo é criado com dois pontos de coleta de exemplo.
-
-## Equipe
-
-- Mateus Ramos Galhardo
-- Otávio Rossi de Freitas
-- João Gabriel Baldo Catharino
-- Marco Arthur Navegante
-
-Orientação: Prof. Dr. Elvio Gilberto da Silva
-
-Ferramentas de inteligência artificial foram usadas como apoio no desenvolvimento, conforme declarado na documentação do projeto.
